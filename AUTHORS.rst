@@ -1,6 +1,6 @@
 Requests was lovingly created by Kenneth Reitz.
 
-Keepers of the Crystals
+Keepers of the Crystalsaa
 ```````````````````````
 
 - Nate Prewitt `@nateprewitt <https://github.com/nateprewitt>`_.
